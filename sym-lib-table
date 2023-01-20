@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "Molex-502598-3993")(type "Legacy")(uri "${KIPRJMOD}/Library/conn_5025983993.lib")(options "")(descr ""))
+  (lib (name "ERF8-050-01-X-D-EM2-TR")(type "KiCad")(uri "${KIPRJMOD}/Library/ERF8-050-01-X-D-EM2-TR.kicad_sym")(options "")(descr ""))
+  (lib (name "Atlas_Itk_logo")(type "KiCad")(uri "${KIPRJMOD}/Library/Atlas_Itk_logo.kicad_sym")(options "")(descr ""))
+)
