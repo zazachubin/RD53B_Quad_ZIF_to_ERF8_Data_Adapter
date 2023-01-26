@@ -3902,7 +3902,7 @@
     (property "Reference" "J_conn1" (id 0) (at 134.62 30.48 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "ConnSingle" (id 1) (at 134.62 34.29 0)
+    (property "Value" "Module ZIF connector" (id 1) (at 134.62 34.29 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Footprint" "Library:Molex-502598-3993" (id 2) (at 132.08 106.68 0)
@@ -4140,7 +4140,7 @@
       (reference "J6") (unit 1) (value "Conn_02x01") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical")
     )
     (path "/1fd3e61b-118c-43f6-8a6f-bed7546351eb"
-      (reference "J_conn1") (unit 1) (value "ConnSingle") (footprint "Library:Molex-502598-3993")
+      (reference "J_conn1") (unit 1) (value "Module ZIF connector") (footprint "Library:Molex-502598-3993")
     )
   )
 )
