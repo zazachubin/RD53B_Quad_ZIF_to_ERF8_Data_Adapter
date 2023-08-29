@@ -57,7 +57,6 @@
         }
       ],
       "drc_exclusions": [
-        "clearance|147595500|104988501|d9cc1011-ddee-493c-8d12-44bf669ecb67|0aafe3f0-655a-4ebe-be8c-e50c2e465b6a",
         "clearance|147895500|104217500|0aafe3f0-655a-4ebe-be8c-e50c2e465b6a|5ae9e470-3972-450f-83bb-892113fcdd52",
         "clearance|148345500|105238501|b03a23b0-9a80-4286-8aa0-b4888a85d510|e0c31b6d-b951-4322-8c91-7e1c872abf81",
         "clearance|148645500|104738501|b03a23b0-9a80-4286-8aa0-b4888a85d510|e462063b-f43f-444f-9ca4-0a297519cbe4",
@@ -425,8 +424,8 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.1016,
-        "diff_pair_gap": 0.1016,
+        "clearance": 0.0,
+        "diff_pair_gap": 0.0,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.126,
         "line_style": 0,
@@ -493,7 +492,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "Docs/",
     "spice_adjust_passive_values": false,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
