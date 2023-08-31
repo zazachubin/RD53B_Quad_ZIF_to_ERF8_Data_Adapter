@@ -1,0 +1,18 @@
+### Footprint positions - created on Thu Aug 31 15:59:28 2023 ###
+### Printed by KiCad version (7.0.0)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                     Package                               PosX       PosY       Rot  Side
+                                                                      3.0000     3.0000    0.0000  top
+                                                                     71.0850    32.7290    0.0000  top
+                                                                      2.3030    32.5000    0.0000  top
+                                                                     71.0000     2.2420    0.0000  top
+C1        0.1uF                   C_0805_2012Metric                  63.3420    19.5740   90.0000  top
+J2        Conn_02x01              PinHeader_2x01_P2.54mm_Vertical    18.9725    15.0380  180.0000  top
+J3        Conn_02x02_Odd_Even     PinHeader_2x02_P2.54mm_Vertical    18.9725     8.6230  180.0000  top
+J4        Conn_02x04_Odd_Even     PinHeader_2x04_P2.54mm_Vertical    54.9725    16.7100    0.0000  top
+J5        ERF8-050-01-X-D-EM2-TR  SAMTEC_ERF8-050-01-X-D-EM2-TR      36.9725    35.5000    0.0000  top
+J6        Conn_02x01              PinHeader_2x01_P2.54mm_Vertical    66.6390    18.2600   90.0000  top
+J_conn1   Module_ZIF_connector    Molex-502598-3993                  36.9725    12.9715    0.0000  top
+REF**     Fiducial_1mm_Mask2mm    Fiducial_1mm_Mask2mm                7.5240     3.0800    0.0000  top
+## End

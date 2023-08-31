@@ -1,0 +1,9 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"J2,J6";"PinHeader_2x01_P2.54mm_Vertical";2;"Conn_02x01";;;
+2;"J5";"SAMTEC_ERF8-050-01-X-D-EM2-TR";1;"ERF8-050-01-X-D-EM2-TR";;;
+3;",,,";"";4;"";;;
+4;"C1";"C_0805_2012Metric";1;"0.1uF";;;
+5;"J_conn1";"Molex-502598-3993";1;"Module ZIF connector";;;
+6;"J4";"PinHeader_2x04_P2.54mm_Vertical";1;"Conn_02x04_Odd_Even";;;
+7;"J3";"PinHeader_2x02_P2.54mm_Vertical";1;"Conn_02x02_Odd_Even";;;
+8;"REF**";"Fiducial_1mm_Mask2mm";1;"Fiducial_1mm_Mask2mm";;;
