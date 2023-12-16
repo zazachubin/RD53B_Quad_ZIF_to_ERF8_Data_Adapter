@@ -3486,7 +3486,7 @@
     (stroke (width 0) (type default))
     (uuid f1194df2-e3ea-4f5f-b8a0-45e2173a9fc0)
   )
-  (polyline (pts (xy 203.2 27.94) (xy 203.2 78.74))
+  (polyline (pts (xy 203.2 27.94) (xy 203.2 82.55))
     (stroke (width 1) (type default))
     (uuid f16e8b6c-1564-4f22-bece-4eead9122636)
   )
@@ -3919,7 +3919,7 @@
   (symbol (lib_id "Molex-502598-3993:ConnSingle") (at 132.08 93.98 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1fd3e61b-118c-43f6-8a6f-bed7546351eb)
-    (property "Reference" "J_conn1" (at 134.62 30.48 0)
+    (property "Reference" "J1" (at 134.62 30.48 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "Module ZIF connector" (at 134.62 34.29 0)
@@ -3975,7 +3975,7 @@
     (instances
       (project "RD53B_Quad_ZIF_to_ERF8_Data_Adapter"
         (path "/944dddd9-6642-49a0-962d-82b52e26316b"
-          (reference "J_conn1") (unit 1)
+          (reference "J1") (unit 1)
         )
       )
     )
